@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\J.Wolter\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_f081fe8ba8919820eb95bea00c7cf7a1b266e9cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a4c2b3605c65a4f0bf3221f3fcf29c43a936cb">
+        <dex dex="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a9b7091faed48809082be160f35bb8cf66466218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\J.Wolter\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_bb827e2b268aa9b4d93ad28aa69f57e417c83080\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\J.Wolter\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_5a44033321ee87572f5929e36f8ea2bd05df49f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\J.Wolter\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_fc2b10dec3db8afc1477379f82b2db39b7821866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f915cb5ca5ae0fd405aa19eceabf6004a1fd516c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\J.Wolter\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\J.Wolter\Desktop\Bachelorarbeit\RetrofitTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_74ac4ee2ef84f4104690ecbc0c358428454092fa\classes.dex" />
+    </item>
+
+</items>
